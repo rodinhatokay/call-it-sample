@@ -5,8 +5,8 @@ Call It - is a free app in app store and google play where you can conveniently 
 
 ## sample video of the app
 * 0:00 - 2:30 ordering food
-* 2:30 - 2:45 booking
-* 2:45 - 3:01 ordering technation
+* 2:25 - 2:40 booking
+* 2:41 - 3:01 ordering technation
 
-[Call It](https://drive.google.com/file/d/1GaexF0SGokLMPjNhClK0tLZ9JsONcyGZ/view?usp=sharing) - _Call it
+[Link to the video](https://drive.google.com/file/d/1GaexF0SGokLMPjNhClK0tLZ9JsONcyGZ/view?usp=sharing) - Call it
 

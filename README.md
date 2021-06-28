@@ -7,7 +7,7 @@ Call It - is a free app in app store and google play where you can conveniently 
 ## sample video of the app
 * 0:00 - 2:30 general & ordering food 
 * 2:25 - 2:40 booking
-* 2:41 - 3:01 ordering technation
+* 2:41 - 3:01 ordering technicians
 
 [Link to the video](https://drive.google.com/file/d/1GaexF0SGokLMPjNhClK0tLZ9JsONcyGZ/view?usp=sharing) - Call it
 

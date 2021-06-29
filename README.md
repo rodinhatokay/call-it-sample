@@ -7,9 +7,9 @@ Call It - is a free app in app store and google play where you can conveniently 
 [Link to the app](http://callit.co.il/?fbclid=IwAR3aHOYiHHyjjsqgcli0h6U7tzSoum9pxF4K_O26wra5FA-pZGX9gmm8MKg)
 
 ## Images
-<img src="images/Call It Home.jpg" />
-<img src="images/Call It Business.jpg" />
-<img src="images/Call It Product.jpg" />
+<img src="images/Call It Home.jpg" width="50%" height="50%" />
+<img src="images/Call It Business.jpg" width="50%" height="50%" />
+<img src="images/Call It Product.jpg" width="50%" height="50%" />
 
 ## sample video of the app
 * 0:00 - 2:30 general & ordering food 

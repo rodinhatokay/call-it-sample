@@ -14,9 +14,9 @@ Call It - is a free app in app store and google play where you can conveniently 
      <td>Food Products</td>
   </tr>
   <tr>
-    <td><img src="images/Call It Home.png" width=270 height=480></td>
-    <td><img src="images/Call It Business" width=270 height=480></td>
-    <td><img src="images/Call It Prodcut" width=270 height=480></td>
+    <td><img src="images/Call It Home.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Business.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Product.jpg" width=270 height=480></td>
   </tr>
     <tr>
     <td>Home Screen</td>
@@ -24,9 +24,9 @@ Call It - is a free app in app store and google play where you can conveniently 
      <td>Food Products</td>
   </tr>
   <tr>
-    <td><img src="images/Call It Home.png" width=270 height=480></td>
-    <td><img src="images/Call It Business" width=270 height=480></td>
-    <td><img src="images/Call It Prodcut" width=270 height=480></td>
+    <td><img src="images/Call It Home.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Business.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Prodcut.jpg" width=270 height=480></td>
   </tr>
  </table>
 

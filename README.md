@@ -8,10 +8,11 @@ Call It - is a free app in app store and google play where you can conveniently 
 
 ## Images
 <p float="left">
-<img src="images/Call It Home.jpg" width="30%" height="30%" />
-<img src="images/Call It Business.jpg" width="30%" height="30%" />
-<img src="images/Call It Product.jpg" width="30%" height="30%" />
+<img src="images/Call It Home.jpg" width="28%" height="28%" />
+<img src="images/Call It Business.jpg" width="28%" height="28%" />
+<img src="images/Call It Product.jpg" width="28%" height="28%" />
 <p/>
+
 ## sample video of the app
 * 0:00 - 2:30 general & ordering food 
 * 2:25 - 2:40 booking

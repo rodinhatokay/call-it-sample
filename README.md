@@ -2,9 +2,14 @@
 
 Call It - is a free app in app store and google play where you can conveniently search and easily find a huge variety of businesses at any point in Israel with all the information you need to know including address, hours of operation.
 
+i developed this app using react-native for both platforms iOS and Android, using Redux, Redux-thunk, Gelocation, Firebase and HTTP requests. 
+
 #### call it displays businesses according to your location or city selected (most of the businesses in the app are in "כפר כמא" city).
 
+The app is published on Google Play and App Store and used over by 1k users.
+
 [Link to the app](http://callit.co.il/?fbclid=IwAR3aHOYiHHyjjsqgcli0h6U7tzSoum9pxF4K_O26wra5FA-pZGX9gmm8MKg)
+
 
 ## Call It App ScreenShots 
 <table>

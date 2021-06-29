@@ -19,14 +19,14 @@ Call It - is a free app in app store and google play where you can conveniently 
     <td><img src="images/Call It Product.jpg" width=270 height=480></td>
   </tr>
     <tr>
-    <td>Home Screen</td>
-     <td>Business</td>
-     <td>Food Products</td>
+    <td>Booking an appointement</td>
+     <td>Ordering technician</td>
+     <td>Order of Food Service</td>
   </tr>
   <tr>
-    <td><img src="images/Call It Home.jpg" width=270 height=480></td>
-    <td><img src="images/Call It Business.jpg" width=270 height=480></td>
-    <td><img src="images/Call It Prodcut.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Booking.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Tech.jpg" width=270 height=480></td>
+    <td><img src="images/Call It Order.jpg" width=270 height=480></td>
   </tr>
  </table>
 

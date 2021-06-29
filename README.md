@@ -2,7 +2,7 @@
 
 Call It - is a free app in app store and google play where you can conveniently search and easily find a huge variety of businesses at any point in Israel with all the information you need to know including address, hours of operation.
 
-#### call it displays business according to your location or city selected (all business inside the app are in "כפר כמא" city).
+#### call it displays business according to your location or city selected (all businesses inside the app are in "כפר כמא" city).
 
 [Link to the app](http://callit.co.il/?fbclid=IwAR3aHOYiHHyjjsqgcli0h6U7tzSoum9pxF4K_O26wra5FA-pZGX9gmm8MKg)
 

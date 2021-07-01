@@ -26,7 +26,7 @@ The app is published on Google Play and App Store and used over by 1k users.
     <tr>
     <td>Booking an appointement</td>
      <td>Ordering technician</td>
-     <td>Order of Food Service</td>
+     <td>Ordering food</td>
   </tr>
   <tr>
     <td><img src="images/Call It Booking.jpg" width=270 height=480></td>

@@ -8,7 +8,8 @@ i developed this app using react-native for both platforms iOS and Android, usin
 
 The app is published on Google Play and App Store and used over by 1k users.
 
-[Link to the app](http://callit.co.il/?fbclid=IwAR3aHOYiHHyjjsqgcli0h6U7tzSoum9pxF4K_O26wra5FA-pZGX9gmm8MKg)
+[App Store](https://apps.apple.com/il/app/call-it/id1501319629)
+[Google Play](https://play.google.com/store/apps/details?id=com.callit.co.il)
 
 
 ## Call It App ScreenShots 

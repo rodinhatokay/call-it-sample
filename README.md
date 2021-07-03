@@ -9,7 +9,6 @@ i developed this app using react-native for both platforms iOS and Android, usin
 The app is published on Google Play and App Store and used over by 1k users.
 
 [App Store](https://apps.apple.com/il/app/call-it/id1501319629)
-
 [Google Play](https://play.google.com/store/apps/details?id=com.callit.co.il)
 
 

@@ -41,5 +41,5 @@ The app is published on Google Play and App Store and used over by 1k users.
 * 2:25 - 2:40 booking
 * 2:41 - 3:01 ordering technicians
 
-[Link to the video](https://drive.google.com/file/d/1GaexF0SGokLMPjNhClK0tLZ9JsONcyGZ/view?usp=sharing) - Call it
+[video](https://drive.google.com/file/d/1GaexF0SGokLMPjNhClK0tLZ9JsONcyGZ/view?usp=sharing) - Call it
 
